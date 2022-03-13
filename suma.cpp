@@ -1,5 +1,5 @@
 #include<iostrea>
-using namespace std;
+using namespace rtd;
 int main()
 {
 	float a,b,c;
